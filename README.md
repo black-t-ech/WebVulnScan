@@ -10,8 +10,7 @@ Requirements :--
 >> Python 2.7 or 3
 
 >> Git
-
-To Run The Program And Find The Bug Follow The Steps :--
+Installation :--
 
 
 1>> To Download The File In Terminal "git clone https://github.com/black-t-ech/WebVulnScan.git:
